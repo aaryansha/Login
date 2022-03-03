@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="welcome_you">Welcome You</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="welcomes_you_pet_engineering_college">WELCOMES YOU PET ENGINEERING COLLEGE</string>
+    <string name="Create_User_Name">Create User Name</string>
+    <string name="Create_Password">Create Password</string>
+    <string name="Register">Register</string>
+
+</resources>
